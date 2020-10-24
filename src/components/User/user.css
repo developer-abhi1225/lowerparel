@@ -1,0 +1,13 @@
+.user .ant-card-body{
+    height: calc(100vh - 70px);
+}
+.user .ant-card-body .ant-row .user__label{
+    font-weight: 500 !important;
+}
+.user .ant-card-body .ant-row .user__value{
+    width: 100%;
+}
+.user .ant-card-body .user__footer{
+    position: fixed !important;
+    bottom: 25px !important    ;  
+}
