@@ -1,0 +1,13 @@
+.loginwrapper{
+    background-color:#f4fff4;
+}
+.login{
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -150px;
+    margin-left: -200px;
+    background-color: #f6f6ff;
+}

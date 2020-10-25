@@ -41,6 +41,11 @@
     color: grey !important;
     width:120px !important;
 }
+
+.ant-layout .ant-layout-header .ant-menu .ant-menu-item:hover{
+    border-bottom: 2px solid black !important;
+}
+
 .ant-layout .ant-layout-header .ant-menu .ant-menu-item-selected{
     background: #313131;
     color: white !important;
